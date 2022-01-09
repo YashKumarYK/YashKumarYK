@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @YashKumarYK 
-- 👀 I’m interested in , Data Analytics, Data Science,Machine learning 
+- 👋 Hi, I’m @YashKumarYK
+- 👀 I’m interested in Data Analytics, Data Science,Machine learning 
 - 🌱 I’m currently learning Deep Learning to explore myself in the field of Computer Vision
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on the projects related to Machine Learning
 - 📫 contact me by mail - yashyk9891@gmail.com
 
 <!---
