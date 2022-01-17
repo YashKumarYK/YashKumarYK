@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YashKumarYK
+- 👋 Hi, I’m Yash, a Mechanical Engineering Student but obsessed with the world of Data Science.
 - 👀 I’m interested in Data Analytics, Data Science,Machine learning 
 - 🌱 I’m currently learning Deep Learning to explore myself in the field of Computer Vision
 - 💞️ I’m looking to collaborate on the projects related to Machine Learning
