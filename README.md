@@ -1,3 +1,5 @@
+![20211109_150346](https://user-images.githubusercontent.com/97405524/151651898-7d1d1a98-e2cf-4a05-9c57-9426f431cf74.jpg)
+
 - 👋 Hi, I’m Yash, a Mechanical Engineering Student, but obsessed with the world of Data Science.
 - ✨ Learning and Growing...
 - 👀 I’m interested in Data Analytics, Data Science,Machine learning. 
