@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Yash</h1>
-<h3 align="center">A final year undergraduate from Delhi Technological University.</h3>
+<h3 align="center">A final year undergraduate student from Delhi Technological University.</h3>
 
 ✨ Learning and Growing...
 <br />👀 I’m interested in Web Development and Machine learning. 
