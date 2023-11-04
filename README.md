@@ -1,12 +1,12 @@
 
 
 <h1 align="center">Hi 👋, I'm Yash</h1>
-<h3 align="center">A final year undergraduate student from Delhi Technological University.</h3>
+<h3 align="center">A developer graduated from Delhi Technological University.</h3>
 
 ✨ Learning and Growing...
 <br />👀 I’m interested in Web Development and Machine learning. 
-<br />🌱 I’m currently learning Computer Vision and Natural Language Processing.
-<br />💞️ I’m looking to collaborate on the projects related to Machine Learning, Computer Vision and Natural Language Processing.
+<br />🌱 I’m currently learning Web Development.
+<br />💞️ I’m looking to collaborate on projects related to FullStack Development.
 <br />📫 Contact me by mail - yashyk9891@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
